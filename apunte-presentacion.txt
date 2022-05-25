@@ -1,0 +1,8 @@
+Presentación
+
+Preparar una introducción con un meme
+Al final crear otro meme que explique lo que es big data (puede ser video max 30 min)
+
+Preguntas de la unidad 2 PPT
+.. que es la funcion de spark ejemplo
+
